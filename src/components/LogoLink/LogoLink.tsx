@@ -15,8 +15,8 @@ export default function LogoLink({ small = false }: { small?: boolean }) {
       <span className="logo-link__slide">
         <img
           className="logo-link__img"
-          src={assetUrl("logo.svg")}
-          width="150px"
+          src={assetUrl("logo.png")}
+          width="60px"
           height="60px"
           alt={radarNameShort}
         />
