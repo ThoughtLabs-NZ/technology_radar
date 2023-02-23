@@ -94,31 +94,23 @@
   "searchPlaceholder": "What are you looking for?",
   "socialLinks": [
     {
-      "href": "https://www.facebook.com/aoepeople",
-      "iconName": "facebook"
-    },
-    {
-      "href": "https://twitter.com/aoepeople",
+      "href": "https://twitter.com/timbojax",
       "iconName": "twitter"
     },
     {
-      "href": "https://www.linkedin.com/company/aoe",
+      "href": "https://www.linkedin.com/company/futureideas-nz",
       "iconName": "linkedIn"
     },
     {
-      "href": "https://www.xing.com/company/aoe",
-      "iconName": "xing"
-    },
-    {
-      "href": "https://www.instagram.com/aoepeople",
+      "href": "https://www.instagram.com/futureideas-nz",
       "iconName": "instagram"
     },
     {
-      "href": "https://www.youtube.com/user/aoepeople",
+      "href": "https://www.youtube.com/user/futureideas-nz",
       "iconName": "youtube"
     },
     {
-      "href": "https://github.com/aoepeople",
+      "href": "https://github.com/futureideas-nz",
       "iconName": "github"
     }
   ],
