@@ -22,21 +22,7 @@
       "info": "",
       "release": "2018-03-01",
       "fileName": "C:\\projects\\techradar\\radar\\2018-03-01\\adr.md"
-    },
-    {
-      "flag": "changed",
-      "featured": false,
-      "revisions": [
-        {
-          "name": "akeneo",
-          "release": "2021-01-01",
-          "title": "Akeneo",
-          "ring": "adopt",
-          "quadrant": "tools",
-          "featured": false,
-          "fileName": "C:\\projects\\techradar\\radar\\2021-01-01\\akeneo.md",
-          "body": "<p>We continue to use Akeneo with a variety of customers to store and process product data in a standardized format. It is the de facto standard for open source PIM&#39;s and therefore an integral part of our e-commerce solutions.</p>\n<p>In the meantime, Akeneo has been continuously developed and offers many new features that further facilitate product data collection.</p>\n<p>The recent switch to Elasticsearch and an update of Symfony improved runtime behaviour as well as scalability for future-prove use. Support for the latest release of PHP 8 is upcoming.</p>\n"
-        }
+    }
   ],
   "releases": ["2017-03-01", "2018-03-01", "2019-11-01", "2021-01-01"]
 }
