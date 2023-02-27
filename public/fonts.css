@@ -1,11 +1,11 @@
 @font-face {
-    font-family: "DIN";
+    font-family: "Roboto";
     src: url("fonts/Roboto-Bold.otf");
     font-weight: normal;
 }
 
 @font-face {
-    font-family: "DIN";
+    font-family: "Roboto";
     src: url("fonts/Roboto-Regular.otf");
     font-weight: 300;
 }
