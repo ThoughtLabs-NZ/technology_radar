@@ -3,7 +3,7 @@
     font-style: normal;
     font-weight: normal;
     src: local('Roboto Bold'), url(fonts/'Roboto-Bold.woff') format('woff');
-}
+},
 @font-face {
     font-family: 'Roboto Regular';
     font-style: normal;
