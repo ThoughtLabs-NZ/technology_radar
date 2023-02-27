@@ -1,11 +1,11 @@
 @font-face {
     font-family: "DIN";
-    src: url("fonts/clanot-news.otf");
+    src: url("fonts/Roboto-Bold.otf");
     font-weight: normal;
 }
 
 @font-face {
     font-family: "DIN";
-    src: url("fonts/clanot-thin.otf");
+    src: url("fonts/Roboto-Regular.otf");
     font-weight: 300;
 }
