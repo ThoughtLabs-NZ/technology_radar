@@ -22,6 +22,27 @@
       "info": "",
       "release": "2018-03-01",
       "fileName": "C:\\projects\\techradar\\radar\\2018-03-01\\adr.md"
+    },
+    {
+      "flag": "default",
+      "featured": true,
+      "revisions": [
+        {
+          "name": "GitHub",
+          "release": "2018-03-01",
+          "title": "GitHUB",
+          "ring": "assess",
+          "quadrant": "methods-and-patterns",
+          "body": "<p>Code Control and Governance</p>\n<p>GitHUB is widely accepeted as the goto code management and source control service.  Aquired by Microsoft, it is a global leader in this area.  Future Ideas uses GitHUB integrated into Google Directory services to support the websites and platforms it provides.)</li>\n</ul>\n"
+        }
+      ],
+      "name": "GitHub",
+      "title": "GitHUB",
+      "ring": "assess",
+      "quadrant": "methods-and-patterns",
+      "body": "<p>Code Control and Governance</p>\n<p>GitHUB is widely accepeted as the goto code management and source control service.  Aquired by Microsoft, it is a global leader in this area.  Future Ideas uses GitHUB integrated into Google Directory services to support the websites and platforms it provides.)</li>\n</ul>\n",
+      "info": "",
+      "release": "2018-03-01",
     }
   ],
   "releases": ["2018-03-01"]
