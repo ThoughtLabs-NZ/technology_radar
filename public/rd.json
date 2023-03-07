@@ -33,7 +33,7 @@
           "title": "GitHUB",
           "ring": "assess",
           "quadrant": "methods-and-patterns",
-          "body": "<p>Code Control and Governance</p>\n<p>GitHUB is widely accepeted as the goto code management and source control service.  Aquired by Microsoft, it is a global leader in this area.  Future Ideas uses GitHUB integrated into Google Directory services to support the websites and platforms it provides.)</li>\n</ul>\n"
+          "body": "<p>Code Control and Governance</p>\n<p>GitHUB is widely accepeted as the goto code management and source control service.</p>\nAquired by Microsoft, it is a global leader in this area.\nFuture Ideas uses GitHUB integrated into Google Directory services to support the websites and platforms it provides.)</li>\n</ul>\n"
         }
       ],
       "name": "GitHub",
@@ -42,7 +42,7 @@
       "quadrant": "methods-and-patterns",
       "body": "<p>Code Control and Governance</p>\n<p>GitHUB is widely accepeted as the goto code management and source control service.  Aquired by Microsoft, it is a global leader in this area.  Future Ideas uses GitHUB integrated into Google Directory services to support the websites and platforms it provides.)</li>\n</ul>\n",
       "info": "",
-      "release": "2018-03-01",
+      "release": "2018-03-01"
     }
   ],
   "releases": ["2018-03-01"]
