@@ -29,7 +29,7 @@ const Footer: React.FC<Props> = ({ items, pageName }) => {
           modifier="footer"
           logoContent={
             <img
-              src={assetUrl("logo.png")}
+              src={assetUrl("%PUBLIC_URL%/FILogo.png")}
               width="60px"
               height="60px"
               alt=""
