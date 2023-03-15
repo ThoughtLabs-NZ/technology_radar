@@ -43,6 +43,27 @@
       "release": "2023-03-01"
     },
     {
+      "flag": "New",
+      "featured": true,
+      "revisions": [
+        {
+          "name": "CloudFlare",
+          "release": "2023-03-01",
+          "title": "CloudFlare",
+          "ring": "adopt",
+          "quadrant": "platforms-and-services",
+          "body": "<p>CloudFlare</p>\n<p>CloudFlare provides centralised WAN and SASE protection to all devices.</p><p>CloudFare is used to secure and host websites, control access to resources and provide DDoS and DNS protection for all company domains.</p><p>The CloudFlare service uses a managed VPN endpoint to encrypt and tunnel authenticated data from endpoints to the CloudFlare network globally.  This authorised encryption ensures ahta all data is potentially double encrypted across both public and private networks.</p><p>The VPNs are maintained using the WARP+ VPN service that optionally allows only DNS requets be be encrypted</p><p>The use of access control and authentication combined with DNS allow and blocklist management also helps control traffic between clients and the outside world.</p>"
+        }
+      ],
+      "name": "CloudFlare",
+      "title": "CloudFlare",
+      "ring": "adopt",
+      "quadrant": "platforms-and-services",
+      "body": "<p>CloudFlare</p>\n<p>CloudFlare provides centralised WAN and SASE protection to all devices.</p><p>CloudFare is used to secure and host websites, control access to resources and provide DDoS and DNS protection for all company domains.</p><p>The CloudFlare service uses a managed VPN endpoint to encrypt and tunnel authenticated data from endpoints to the CloudFlare network globally.  This authorised encryption ensures ahta all data is potentially double encrypted across both public and private networks.</p><p>The VPNs are maintained using the WARP+ VPN service that optionally allows only DNS requets be be encrypted</p><p>The use of access control and authentication combined with DNS allow and blocklist management also helps control traffic between clients and the outside world.</p>",
+      "info": "",
+      "release": "2023-03-01"
+    },
+    {
       "flag": "default",
       "featured": true,
       "revisions": [
