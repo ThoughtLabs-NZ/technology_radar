@@ -43,6 +43,27 @@
       "release": "2023-03-01"
     },
     {
+      "flag": "default",
+      "featured": true,
+      "revisions": [
+        {
+          "name": "Google Workspace SSO",
+          "release": "2023-03-01",
+          "title": "SSO Identity and Access Pattern",
+          "ring": "retain",
+          "quadrant": "methods-and-patterns",
+          "body": "<p>Workspace for Single Sign On</p>\n<p>Leveraging standard features of the Google Workspace business edition, SSO and Google iDP will be used for all SaaS based authentication and accesss control.</p><p>This pattern and standard will ensure that all access to  3rd party systems is audited and maintained centrally according to policies and groups defined in the platform.</p><p>The use of local authentication must only be granted by board level agreement</p>"
+        }
+      ],
+      "name": "Google Workspace SSO",
+      "title": "SSO Identity and Access Pattern",
+      "ring": "retain",
+      "quadrant": "methods-and-patterns",
+      "body": "<p>Workspace for Single Sign On</p>\n<p>Leveraging standard features of the Google Workspace business edition, SSO and Google iDP will be used for all SaaS based authentication and accesss control.</p><p>This pattern and standard will ensure that all access to  3rd party systems is audited and maintained centrally according to policies and groups defined in the platform.</p><p>The use of local authentication must only be granted by board level agreement</p>",
+      "info": "",
+      "release": "2023-03-01"
+    },
+    {
       "flag": "New",
       "featured": true,
       "revisions": [
