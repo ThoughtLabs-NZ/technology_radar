@@ -22,6 +22,27 @@
       "release": "2023-03-01"
     },
     {
+      "flag": "New",
+      "featured": true,
+      "revisions": [
+        {
+          "name": "Exclaimer for GSuite",
+          "release": "2023-03-01",
+          "title": "Exclaimer",
+          "ring": "adopt",
+          "quadrant": "platforms-and-services",
+          "body": "<p>Exclaimer for GSuite</p>\n<p>Exclaimer is a cloud SaaS service than enables professional email signatures across all environments.</p><p>The use of centralised signatures ensures consistant look and feel which is key to brand recognition and brand governance.<p>Configured centrally, Exclaimer provides a secure end-to-end encrypted service for signature management.</p>"
+        }
+      ],
+      "name": "Exclaimer for GSuite",
+      "title": "Exclaimer",
+      "ring": "adopt",
+      "quadrant": "platforms-and-services",
+      "body": "<p>Exclaimer for GSuite</p>\n<p>Exclaimer is a cloud SaaS service than enables professional email signatures across all environments.</p><p>The use of centralised signatures ensures consistant look and feel which is key to brand recognition and brand governance.<p>Configured centrally, Exclaimer provides a secure end-to-end encrypted service for signature management.</p>",
+      "info": "",
+      "release": "2023-03-01"
+    },
+    {
       "flag": "default",
       "featured": true,
       "revisions": [
