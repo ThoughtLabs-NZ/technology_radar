@@ -1,5 +1,5 @@
 # AOE Technology Radar
-A static site generator for AOE Technology Radar - modified by Future Ideas
+A static site generator for AOE Technology Radar - modified by ThoughtLabs Limited
 
 ## Looking for the AOE Tech Radar content?
 The repository is now found here: https://github.com/AOEpeople/techradar
