@@ -5,19 +5,19 @@
       "featured": true,
       "revisions": [
         {
-          "name": "HexNode",
+          "name": "JAMF Now",
           "release": "2023-03-01",
-          "title": "HexNode",
+          "title": "JAMF Now",
           "ring": "adopt",
           "quadrant": "platforms-and-services",
-          "body": "<p>Mobile Device Management (MDM)</p><p>HexNode is an industry leader in Mobile Device Management or MDM.</p><p>Given the use of Google Workspace and the high cost of any Microsoft option, the Intune service would not be acceptable.</p><p>The need for an MDM is a key infrastrucutre support element for any organisation.  The HexNode service provides tight integration with Google Workspace allowing it to provide both SSO and device integration capabilities.</p><p>Other systems have been reviewed, but this HexNode service is by far the cheapest and for the cost, good value</p>."
+          "body": "<p>Mobile Device Management (MDM)</p><p>JAMFNow is an industry leader in Mobile Device Management or MDM.</p><p>Given the use of Google Workspace and the high cost of any Microsoft option, the Intune service would not be acceptable.</p><p>The need for an MDM is a key infrastrucutre support element for any organisation.  The JAMFNow service provides tight integration with Google Workspace allowing it to provide both SSO and device integration capabilities.</p><p>Other systems have been reviewed, but this JAMFNow service is by far the cheapest and for the cost, good value</p>."
         }
       ],
-      "name": "HexNode",
-      "title": "HexNode",
+      "name": "JAMF Now",
+      "title": "JAMF Now",
       "ring": "adopt",
       "quadrant": "platforms-and-services",
-      "body": "<p>Mobile Device Management (MDM)</p><p>HexNode is an industry leader in Mobile Device Management or MDM.</p><p>Given the use of Google Workspace and the high cost of any Microsoft option, the Intune service would not be acceptable.</p><p>The need for an MDM is a key infrastrucutre support element for any organisation.  The HexNode service provides tight integration with Google Workspace allowing it to provide both SSO and device integration capabilities.</p><p>Other systems have been reviewed, but this HexNode service is by far the cheapest and for the cost, good value</p>.",
+      "body": "<p>Mobile Device Management (MDM)</p><p>JAMF Now is an industry leader in Mobile Device Management or MDM.</p><p>Given the use of Google Workspace and the high cost of any Microsoft option, the Intune service would not be acceptable.</p><p>The need for an MDM is a key infrastrucutre support element for any organisation.  The JAMFNow service provides tight integration with Google Workspace allowing it to provide both SSO and device integration capabilities.</p><p>Other systems have been reviewed, but this JAMFNow service is by far the cheapest and for the cost, good value</p>.",
       "info": "",
       "release": "2023-03-01"
     },
@@ -26,19 +26,19 @@
       "featured": true,
       "revisions": [
         {
-          "name": "Exclaimer for GSuite",
+          "name": "Signature Satori for GSuite",
           "release": "2023-03-01",
-          "title": "Exclaimer",
+          "title": "Signature Satori",
           "ring": "adopt",
           "quadrant": "platforms-and-services",
-          "body": "<p>Exclaimer for GSuite</p>\n<p>Exclaimer is a cloud SaaS service than enables professional email signatures across all environments.</p><p>The use of centralised signatures ensures consistant look and feel which is key to brand recognition and brand governance.<p>Configured centrally, Exclaimer provides a secure end-to-end encrypted service for signature management.</p>"
+          "body": "<p>Exclaimer for GSuite</p>\n<p>Signature Satori is a cloud SaaS service than enables professional email signatures across all environments.</p><p>The use of centralised signatures ensures consistant look and feel which is key to brand recognition and brand governance.<p>Configured centrally, Signature Satori provides a secure end-to-end encrypted service for signature management.</p>"
         }
       ],
-      "name": "Exclaimer for GSuite",
-      "title": "Exclaimer",
+      "name": "Signature Satori for GSuite",
+      "title": "Signature Satori",
       "ring": "adopt",
       "quadrant": "platforms-and-services",
-      "body": "<p>Exclaimer for GSuite</p>\n<p>Exclaimer is a cloud SaaS service than enables professional email signatures across all environments.</p><p>The use of centralised signatures ensures consistant look and feel which is key to brand recognition and brand governance.<p>Configured centrally, Exclaimer provides a secure end-to-end encrypted service for signature management.</p>",
+      "body": "<p>Exclaimer for GSuite</p>\n<p>Signature Satori is a cloud SaaS service than enables professional email signatures across all environments.</p><p>The use of centralised signatures ensures consistant look and feel which is key to brand recognition and brand governance.<p>Configured centrally, Signature Satori provides a secure end-to-end encrypted service for signature management.</p>",
       "info": "",
       "release": "2023-03-01"
     },
