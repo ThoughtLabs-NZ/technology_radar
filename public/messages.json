@@ -1,7 +1,7 @@
 {
-  "footerFootnote": "AOE is a leading global provider of services for digital transformation and digital business models. AOE relies exclusively on established Enterprise Open Source technologies. This leads to innovative solutions, digital products and portals in agile software projects, and helps build long-lasting, strategic partnerships with our customers.",
+  "footerFootnote": "ThoughtLabs is a emerging provider of services for digital transformation and digital business models. We rely exclusively on established Enterprise Open Source technologies. This leads to innovative solutions, digital products and portals in agile software projects, and helps build long-lasting, strategic partnerships with our customers.",
   "legalInformationLabel": "Legal Information",
-  "legalInformationLink": "https://www.aoe.com/en/imprint.html",
+  "legalInformationLink": "https://www.thoughtlabs.co.nz",
   "pageHelp": {
     "headlinePrefix": "How to use the",
     "paragraphs": [
@@ -9,12 +9,12 @@
         "headline": "Introduction",
         "values": [
           "Technology is moving fast and new technologies and innovations appear continuously.",
-          "It's essential for a development and technology company such as AOE to constantly improve and keep track with the latest useful innovations. It is important to openly look for innovations and new technologies and to question established technologies and methods every now and then.",
+          "It's essential for a development and technology company such as ThoughtLabs to constantly improve and keep track with the latest useful innovations. It is important to openly look for innovations and new technologies and to question established technologies and methods every now and then.",
           "But, it is also important to wisely choose which technologies to use in our daily work and in the different projects we are carrying out. As we all know: There is no silver bullet."
         ]
       },
       {
-        "headline": "What is the AOE Technology Radar",
+        "headline": "What is the Technology Radar",
         "values": [
           "The Tech Radar is an overview of different technologies - from languages, frameworks, tools and patterns to platforms - that we consider \"new or mentionable\". The radar therefore doesn't provide an overview of all established technologies - but it focuses on items that have recently gained in importance or changed."
         ]
@@ -31,14 +31,14 @@
         "values": [
           "The radar acts as an overview of technologies that we think everyone in the teams should currently know about.",
           "Its goal is to act as a guide and inspiration for the daily work in the teams. Its purpose is also to provide helpful information and a bird's-eye perspective - so that decisions can be taken with a much deeper understanding of the subject matter. This results in more-informed and better-aligned decisions.",
-          "We also hope that developers outside of AOE find the information in our technology overview inspirational.",
+          "We also hope that developers outside of ThoughtLabs find the information in our technology overview inspirational.",
           "We group or categorize the items in 4 quadrants - (sometimes, when it's not 100% clear where a item belongs, we choose the best fit)."
         ]
       }
     ],
     "quadrants": [
       {
-        "description": "We've placed development languages (such as Scala or Golang) here, as well as more low-level development frameworks (such as Play or Symfony), which are useful for implementing custom software of all kinds.",
+        "description": "We've placed development languages Golang) here, as well as more low-level development frameworks (such as Play or Symfony), which are useful for implementing custom software of all kinds.",
         "name": "Languages and Frameworks"
       },
       {
@@ -50,8 +50,8 @@
         "name": "Methods and Patterns"
       },
       {
-        "description": "(including AOE internal Services): Here we include infrastructure platforms and services. We also use this category to communicate news about AOE services that we want all AOE teams to be aware of.",
-        "name": "Platforms and Operations"
+        "description": "(including internal Services): Here we include infrastructure platforms and services. We also use this category to communicate news about our services that we want all teams to be aware of.",
+        "name": "Platforms and Services"
       }
     ],
     "quadrantsPreDescription": "The quadrants are:",
@@ -75,9 +75,9 @@
     ],
     "ringsPreDescription": "Each of the items is classified in one of these rings:",
     "sourcecodeLink": {
-      "description": "Contributions and source code of the AOE Tech Radar are on github:",
-      "href": "https://github.com/AOEpeople/aoe_technology_radar",
-      "name": "AOE Tech Radar on Github"
+      "description": "Contributions and source code of the Tech Radar are on github:",
+      "href": "https://github.com/ThoughtLabs-NZ/technology_radar",
+      "name": "ThoughtLabs Technology Radar on Github"
     }
   },
   "pageIndex": {
@@ -94,31 +94,23 @@
   "searchPlaceholder": "What are you looking for?",
   "socialLinks": [
     {
-      "href": "https://www.facebook.com/aoepeople",
-      "iconName": "facebook"
-    },
-    {
-      "href": "https://twitter.com/aoepeople",
+      "href": "https://twitter.com/timbojax",
       "iconName": "twitter"
     },
     {
-      "href": "https://www.linkedin.com/company/aoe",
+      "href": "https://www.linkedin.com/company/thoughtlabs",
       "iconName": "linkedIn"
     },
     {
-      "href": "https://www.xing.com/company/aoe",
-      "iconName": "xing"
-    },
-    {
-      "href": "https://www.instagram.com/aoepeople",
+      "href": "https://www.instagram.com/thoughtlabs",
       "iconName": "instagram"
     },
     {
-      "href": "https://www.youtube.com/user/aoepeople",
+      "href": "https://www.youtube.com/user/thoughtlabs",
       "iconName": "youtube"
     },
     {
-      "href": "https://github.com/aoepeople",
+      "href": "https://github.com/thoughtlabs-nz",
       "iconName": "github"
     }
   ],
