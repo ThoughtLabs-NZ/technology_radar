@@ -10,7 +10,7 @@
           "title": "JAMF Now",
           "ring": "adopt",
           "quadrant": "platforms-and-services",
-          "body": "<p>Mobile Device Management (MDM)</p><p>JAMFNow is an industry leader in Mobile Device Management or MDM.</p><p>Given the use of Google Workspace and the high cost of any Microsoft option, the Intune service would not be acceptable.</p><p>The need for an MDM is a key infrastrucutre support element for any organisation.  The JAMFNow service provides tight integration with Google Workspace allowing it to provide both SSO and device integration capabilities.</p><p>Other systems have been reviewed, but this JAMFNow service is by far the cheapest and for the cost, good value</p>."
+          "body": "<p>Mobile Device Management (MDM)</p><p>JAMF Now is an industry leader in Mobile Device Management or MDM.</p><p>Given the use of Google Workspace and the high cost of any Microsoft option, the Intune service would not be acceptable.</p><p>The need for an MDM is a key infrastrucutre support element for any organisation.  The JAMFNow service provides tight integration with Google Workspace allowing it to provide both SSO and device integration capabilities.</p><p>Other systems have been reviewed, but this JAMFNow service is by far the cheapest and for the cost, good value</p>."
         }
       ],
       "name": "JAMF Now",
@@ -94,14 +94,14 @@
           "title": "GitHUB",
           "ring": "adopt",
           "quadrant": "platforms-and-services",
-          "body": "<p>Code Control and Governance</p>\n<p>GitHUB is widely accepeted as the goto code management and source control service.</p>\n<p>Aquired by Microsoft, it is a global leader in this area.\nFuture Ideas uses GitHUB integrated into Google Directory services to support the websites and platforms it provides.)</li>\n</ul>\n</p>"
+          "body": "<p>Code Control and Governance</p>\n<p>GitHUB is widely accepted as the goto code management and source control service.</p>\n<p>Acquired by Microsoft, it is a global leader in this area.\nFuture Ideas uses GitHUB integrated into Google Directory services to support the websites and platforms it provides.)</li>\n</ul>\n</p>"
         }
       ],
       "name": "GitHub",
       "title": "GitHUB",
       "ring": "adopt",
       "quadrant": "platforms-and-services",
-      "body": "<p>Code Control and Governance</p>\n<p>GitHUB is widely accepeted as the goto code management and source control service.</p>\n<p>Aquired by Microsoft, it is a global leader in this area.  Future Ideas uses GitHUB integrated into Google Directory services to support the websites and platforms it provides.)</li>\n</ul>\n</p>",
+      "body": "<p>Code Control and Governance</p>\n<p>GitHUB is widely accepted as the goto code management and source control service.</p>\n<p>Acquired by Microsoft, it is a global leader in this area.  Future Ideas uses GitHUB integrated into Google Directory services to support the websites and platforms it provides.)</li>\n</ul>\n</p>",
       "info": "",
       "release": "2023-03-01"
     },
@@ -115,14 +115,14 @@
           "title": "Google Workspace",
           "ring": "adopt",
           "quadrant": "platforms-and-services",
-          "body": "<p>Office Productivity Services</p>\n<p>Google Workspace is a recognised leader in the Office Productivity area for new business startups needing more flexablity from the incumbant leader Microsoft.</p>\n<p>Google Workspace provides online web only services that help maintain the footprint of the company operations to the cloud.</p><p>Using Google Workspace services and integrating all aspects into the Chrome browser experence ensures the company operations can be done on any device.</p><p>Using centrallised management of end user experence using the admin console allows rapid onboarding and offboarding of staff onto the service as needed.</p><p>This easy of management is a key reason Google Workspace was selected for the Office Productivity service.</p></li>\n</ul>\n</p>"
+          "body": "<p>Office Productivity Services</p>\n<p>Google Workspace is a recognised leader in the Office Productivity area for new business startups needing more flexibility from the incumbent leader Microsoft.</p>\n<p>Google Workspace provides online web only services that help maintain the footprint of the company operations to the cloud.</p><p>Using Google Workspace services and integrating all aspects into the Chrome browser experence ensures the company operations can be done on any device.</p><p>Using centrallised management of end user experence using the admin console allows rapid onboarding and offboarding of staff onto the service as needed.</p><p>This easy of management is a key reason Google Workspace was selected for the Office Productivity service.</p></li>\n</ul>\n</p>"
         }
       ],
       "name": "Google Workspace",
       "title": "Google Workspace",
       "ring": "adopt",
       "quadrant": "platforms-and-services",
-      "body": "<p>Office Productivity Services</p>\n<p>Google Workspace is a recognised leader in the Office Productivity area for new business startups needing more flexablity from the incumbant leader Microsoft.</p>\n<p>Google Workspace provides online web only services that help maintain the footprint of the company operations to the cloud.</p><p>Using Google Workspace services and integrating all aspects into the Chrome browser experence ensures the company operations can be done on any device.</p><p>Using centrallised management of end user experence using the admin console allows rapid onboarding and offboarding of staff onto the service as needed.</p><p>This easy of management is a key reason Google Workspace was selected for the Office Productivity service.</p></li>\n</ul>\n</p>",
+      "body": "<p>Office Productivity Services</p>\n<p>Google Workspace is a recognised leader in the Office Productivity area for new business startups needing more flexibility from the incumbent leader Microsoft.</p>\n<p>Google Workspace provides online web only services that help maintain the footprint of the company operations to the cloud.</p><p>Using Google Workspace services and integrating all aspects into the Chrome browser experence ensures the company operations can be done on any device.</p><p>Using centrallised management of end user experence using the admin console allows rapid onboarding and offboarding of staff onto the service as needed.</p><p>This easy of management is a key reason Google Workspace was selected for the Office Productivity service.</p></li>\n</ul>\n</p>",
       "info": "",
       "release": "2023-03-01"
     },

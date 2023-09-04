@@ -1,12 +1,12 @@
 {
-  "name": "aoe_technology_radar",
-  "version": "3.6.0",
-  "description": "AOE Technology Radar",
-  "author": "AOE GmbH <contact-de@aoe.com> (http://www.aoe.com)",
+  "name": "thoughtlabs_technology_radar",
+  "version": "1.0.1",
+  "description": "ThoughtLabs Technology Radar",
+  "author": "ThoughtLabs Limited <support@thoughtlabs.co.nz (https://www.thoughtlabs.co.nz)",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AOEpeople/aoe_technology_radar.git"
+    "url": "https://github.com/thoughtlabs-nz/technology_radar.git"
   },
   "bin": {
     "aoe_technology_radar-buildRadar": "dist_scripts/scripts/buildRadar.js",
@@ -36,6 +36,7 @@
     "@types/react-modal": "3.16.0",
     "@types/sanitize-html": "2.9.0",
     "@types/walk": "2.3.1",
+    "aoe_technology_radar": "github:ThoughtLabs-NZ/technology_radar",
     "classnames": "2.3.2",
     "cross-env": "7.0.3",
     "d3": "7.8.5",
