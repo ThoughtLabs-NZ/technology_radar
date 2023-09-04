@@ -9,9 +9,9 @@
     "url": "https://github.com/thoughtlabs-nz/technology_radar.git"
   },
   "bin": {
-    "aoe_technology_radar-buildRadar": "dist_scripts/scripts/buildRadar.js",
-    "aoe_technology_radar-createStaticFiles": "dist_scripts/scripts/createStaticFiles.js",
-    "aoe_technology_radar-generateJson": "dist_scripts/scripts/generateJson.js"
+    "thoughtlabs_technology_radar-buildRadar": "dist_scripts/scripts/buildRadar.js",
+    "thoughtlabs_technology_radar-createStaticFiles": "dist_scripts/scripts/createStaticFiles.js",
+    "thoughtlabs_technology_radar-generateJson": "dist_scripts/scripts/generateJson.js"
   },
   "scripts": {
     "prepare": "husky install && npm run build:scripts",
