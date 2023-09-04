@@ -127,6 +127,27 @@
       "release": "2023-03-01"
     },
     {
+      "flag": "",
+      "featured": true,
+      "revisions": [
+        {
+          "name": "Canva",
+          "release": "2023-03-01",
+          "title": "Canva",
+          "ring": "adopt",
+          "quadrant": "tools",
+          "body": "<p>Canva is a marketing and graphics design tool.</p>"
+        }
+      ],
+      "name": "Canva",
+      "title": "Canva",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>Canva is a marketing and graphics design tool.</p>",
+      "info": "",
+      "release": "2023-03-01"
+    }
+    {
       "flag": "New",
       "featured": true,
       "revisions": [
@@ -148,5 +169,5 @@
       "release": "2023-08-01"
     }
   ],
-  "releases": ["2023-08-01"]
+  "releases": ["2023-08-01","2023-03-01"]
 }
